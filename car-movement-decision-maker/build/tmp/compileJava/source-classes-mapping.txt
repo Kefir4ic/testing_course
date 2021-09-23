@@ -1,0 +1,4 @@
+ru/ac/uniyar/testingcourse/Ternar.java
+ ru.ac.uniyar.testingcourse.Ternar
+ru/ac/uniyar/testingcourse/CarMovementDecisionMaker.java
+ ru.ac.uniyar.testingcourse.CarMovementDecisionMaker

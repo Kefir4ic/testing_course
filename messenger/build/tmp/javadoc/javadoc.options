@@ -1,0 +1,10 @@
+-classpath 'H:\\Code\\swtc-ivt22\\messenger\\build\\classes\\java\\main;H:\\Code\\swtc-ivt22\\messenger\\build\\resources\\main'
+-d 'H:\\Code\\swtc-ivt22\\messenger\\build\\docs\\javadoc'
+-doctitle 'messenger 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'messenger 1.0-SNAPSHOT API'
+'H:\\Code\\swtc-ivt22\\messenger\\src\\main\\java\\com\\practicalunittesting\\chp05\\types\\Client.java'
+'H:\\Code\\swtc-ivt22\\messenger\\src\\main\\java\\com\\practicalunittesting\\chp05\\types\\MailServer.java'
+'H:\\Code\\swtc-ivt22\\messenger\\src\\main\\java\\com\\practicalunittesting\\chp05\\types\\Messenger.java'
+'H:\\Code\\swtc-ivt22\\messenger\\src\\main\\java\\com\\practicalunittesting\\chp05\\types\\TemplateEngine.java'

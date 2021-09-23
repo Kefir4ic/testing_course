@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.ac.uniyar.testingcourse.WarmupControllerWhiteBoxTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-05-24T10:59:48" hostname="PC210-22" time="0.775">
+  <properties/>
+  <testcase name="[1] 60, 60, 120" classname="ru.ac.uniyar.testingcourse.WarmupControllerWhiteBoxTest" time="0.701"/>
+  <testcase name="[2] 10, 20, 110" classname="ru.ac.uniyar.testingcourse.WarmupControllerWhiteBoxTest" time="0.003"/>
+  <testcase name="[3] 10, 60, 120" classname="ru.ac.uniyar.testingcourse.WarmupControllerWhiteBoxTest" time="0.003"/>
+  <testcase name="[4] 300, 0, 0" classname="ru.ac.uniyar.testingcourse.WarmupControllerWhiteBoxTest" time="0.002"/>
+  <testcase name="testGetRemainingTimeWhenOff()" classname="ru.ac.uniyar.testingcourse.WarmupControllerWhiteBoxTest" time="0.043"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

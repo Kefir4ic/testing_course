@@ -1,0 +1,5 @@
+name           ,red, yellow  ,green,go   ,prepare,caution
+Only red       ,on , off     ,off  ,false,false  ,false
+Blinking yellow,off, blinking,off  ,true ,false  ,true
+Only green     ,off, off     ,on   ,true ,false  ,false
+Only yellow    ,off, on     ,off  ,false,true   ,false

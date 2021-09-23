@@ -1,0 +1,6 @@
+ru/ac/uniyar/testingcourse/TimeProvider.java
+ ru.ac.uniyar.testingcourse.TimeProvider
+ru/ac/uniyar/testingcourse/SystemTimeProvider.java
+ ru.ac.uniyar.testingcourse.SystemTimeProvider
+ru/ac/uniyar/testingcourse/WarmupController.java
+ ru.ac.uniyar.testingcourse.WarmupController

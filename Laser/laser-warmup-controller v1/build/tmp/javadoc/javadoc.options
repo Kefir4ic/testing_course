@@ -1,0 +1,8 @@
+-classpath 'H:\\Code\\swtc-ivt22\\laser-warmup-controller\\build\\classes\\java\\main;H:\\Code\\swtc-ivt22\\laser-warmup-controller\\build\\resources\\main'
+-d 'H:\\Code\\swtc-ivt22\\laser-warmup-controller\\build\\docs\\javadoc'
+-doctitle 'laser-warmup-controller 1.0-SNAPSHOT API'
+-encoding 'UTF-8'
+-notimestamp 
+-quiet 
+-windowtitle 'laser-warmup-controller 1.0-SNAPSHOT API'
+'H:\\Code\\swtc-ivt22\\laser-warmup-controller\\src\\main\\java\\ru\\ac\\uniyar\\testingcourse\\WarmupController.java'

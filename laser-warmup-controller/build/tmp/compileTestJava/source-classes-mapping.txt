@@ -1,0 +1,6 @@
+ru/ac/uniyar/testingcourse/MockedTimeProvider.java
+ ru.ac.uniyar.testingcourse.MockedTimeProvider
+ru/ac/uniyar/testingcourse/WarmupControllerWhiteBoxTest.java
+ ru.ac.uniyar.testingcourse.WarmupControllerWhiteBoxTest
+ru/ac/uniyar/testingcourse/WarmupControllerBlackBoxTest.java
+ ru.ac.uniyar.testingcourse.WarmupControllerBlackBoxTest

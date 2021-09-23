@@ -1,0 +1,3 @@
+ru/ac/uniyar/testingcourse/WarmupControllerTest.java
+ ru.ac.uniyar.testingcourse.WarmupControllerTest
+ ru.ac.uniyar.testingcourse.WarmupControllerTest$SystemMockUp

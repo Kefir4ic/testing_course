@@ -1,0 +1,9 @@
+-classpath 'H:\\Code\\swtc-ivt22\\car-movement-decision-maker\\build\\classes\\java\\main;H:\\Code\\swtc-ivt22\\car-movement-decision-maker\\build\\resources\\main'
+-d 'H:\\Code\\swtc-ivt22\\car-movement-decision-maker\\build\\docs\\javadoc'
+-doctitle 'car-movement-decision-maker 1.0-SNAPSHOT API'
+-encoding 'UTF-8'
+-notimestamp 
+-quiet 
+-windowtitle 'car-movement-decision-maker 1.0-SNAPSHOT API'
+'H:\\Code\\swtc-ivt22\\car-movement-decision-maker\\src\\main\\java\\ru\\ac\\uniyar\\testingcourse\\CarMovementDecisionMaker.java'
+'H:\\Code\\swtc-ivt22\\car-movement-decision-maker\\src\\main\\java\\ru\\ac\\uniyar\\testingcourse\\Ternar.java'

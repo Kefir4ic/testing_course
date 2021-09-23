@@ -1,0 +1,2 @@
+ru/ac/uniyar/testingcourse/CarMovementDecisionMakerTest.java
+ ru.ac.uniyar.testingcourse.CarMovementDecisionMakerTest
